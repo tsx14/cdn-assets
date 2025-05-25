@@ -17,3 +17,10 @@ These assets can be directly linked in HTML, CSS, or JavaScript projects using r
 
 ## 📂 Folder Structure
 
+cdn-assets/
+├── images/
+│ └── logos/
+├── icons/
+├── fonts/
+└── README.md
+
